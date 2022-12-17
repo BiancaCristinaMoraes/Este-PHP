@@ -1,0 +1,121 @@
+
+
+    .margensDiv{ 
+width:70%; 
+margin:auto;
+padding:50px;
+background-color:#f7f2f2;    
+color:black;       
+Font-family:Noto Sans, sans-serif; 
+font-size: 16px; 
+
+margin-top:50px; 
+margin-left: 190px;
+}
+
+.textoexplicativo {
+    font-size: 15px;
+    color:#262626;
+    
+}
+
+button {
+   background-color:rgb(128, 162, 255);
+    color:black;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 15px;
+}
+   
+header{
+background-color: rgb(60, 95, 95);
+padding-top: 100px;
+text-align: center;
+padding-bottom: 90px;
+color:white;
+font-size: 30px;
+
+}
+    
+
+.lula{
+color: rgb(63, 30, 124);
+}
+
+nav{
+    background-color: #130a01;
+   padding-top: 2px;
+   word-spacing: 80px;
+   padding-bottom: 2px;
+}
+
+nav ul {
+    list-style: none;
+    overflow:hidden;
+}
+
+nav a{ color:rgb(245, 235, 235);
+    text-decoration: none;
+    padding:35px;            }
+ 
+
+    nav a:hover{
+        background-color: blue;
+    
+    }
+ 
+nav li{
+    float:left;
+
+}
+
+.kkk{
+
+font-style: italic;
+font-size: 27px;
+
+ }
+
+ .formulario {
+    width: 20%;
+    margin: auto;
+    box-shadow: 0 4px 8px #0f0f0f;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    margin-top: 5px;
+    text-align: center;
+    font-size: 20px;
+    align-items: center;
+    background-color: #969f9f;
+}
+
+label {
+    font-weight: bold;
+    padding-bottom: 5px;
+    display: inline-block;
+    line-height: 2em;
+}
+
+input {
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 1em;
+    border: 1px solid;
+}
+button {
+    background-color: #9EA986;
+    border: 1px solid black;
+    padding: 10px;
+    font-weight: bold;
+    color: rgb(18, 17, 17);
+    width: 80px;
+    padding-right: 8px;
+    padding-top: 8px;
+    font-size: 15px;
+}
+
+
